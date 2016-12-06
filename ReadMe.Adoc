@@ -1,0 +1,61 @@
+= Kocaeli Üniversitesi Bilgisayar Mühendisliği Yüksek Lisans Dersi
+=== Tasarım Örüntüleri
+
+Dersin amacı nesneye yönelik yazılım geliştirme sürecinde analiz ve tasarım aşamalarında öğrencilerin UML modelleme dilini kullanarak gereksinim analizi ve tasarım örüntülerini kullanarak yeniden kullanılabilir yazılım tasarımları gerçekleştirmelerini sağlamaktır.
+
+
+
+
+
+http://edestek.kocaeli.edu.tr/course/view.php?id=245
+
+
+[cols="1*"]
+|===
+|KONULAR
+
+|Nesne Yaratılmasına (Creational) İlişkin Paternler
+|Singleton ve Multi Thread Singleton
+|Factory Method Patern
+|Prototype
+|Object Pool
+|Builder
+|Abstract Factory
+|Davranışsal (Behavioral) Paternler
+|Iterator / Cursor
+|Observer / Publish - Subscribe
+|Mediator
+|Chain of Responsibilty
+|Command
+|Visitor
+|Strategy / Policy
+|State
+|Template Method
+|Interpreter
+|Memento
+|Yapısal (Structured) Paternler
+|Decorator
+|Adapter / Wrapper
+|Facade
+|Proxy / Surrogate
+|Bridge
+|Compozite
+|Flyweight
+|Mimari Paternler
+|Dependency Injection
+|MVC Patern
+|Model 2
+|MVP, PM ve MVVM
+|Transaction Script Patern
+|Repository Patern
+|Domain Model Patern
+|APM Patern
+|Service Locator Patern
+|===
+
+WARNING: Ders notları ve örnek kodlar private repostoryde tutulmaktadır. Private repostorye üye olmak için email atınız.
+
+
+
+
+Yrd. Doç. Burak İNNER <binner@kocaeli.edu.tr>
